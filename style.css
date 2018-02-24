@@ -1,0 +1,15 @@
+body {
+    background-image: url("./img/circles-light.png");
+}
+
+.container {
+    margin-top: 50px;
+}
+
+@media (min-width: 768px) {
+    .my-photo {
+        width: 50%;
+    }
+}
+
+/* questions: height and margins for nav bar */
