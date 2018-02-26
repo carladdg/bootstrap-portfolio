@@ -2,8 +2,34 @@ body {
     background-image: url("./img/circles-light.png");
 }
 
+.navbar-brand {
+    padding-left: 8px;
+}
+
 .container {
     margin-top: 50px;
+}
+
+.github {
+    color: #171515;
+}
+
+.linkedin {
+    color: #0077B5;
+}
+
+.stack-overflow {
+    color: #f48024;
+}
+
+footer p {
+    padding: 4px;
+    font-size: 0.5em;
+}
+
+.absolute-wrapper {
+    bottom: 5px;
+    left: 0px;
 }
 
 @media (min-width: 768px) {
