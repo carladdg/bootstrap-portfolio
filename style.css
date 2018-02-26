@@ -4,10 +4,32 @@ body {
 
 .navbar-brand {
     padding-left: 8px;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 700px;
+    font-size: 1.6em;
+}
+
+.nav-item {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-collapse {
+    padding-left: 8px;
 }
 
 .container {
-    margin-top: 50px;
+    margin-top: 58px;
+}
+
+h5, h6, .btn {
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 400px;
+}
+
+.container p, .form-group, footer p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
 }
 
 .github {
